@@ -1,5 +1,4 @@
 streamlit
-time
 st_clickable_images
 streamlit_autorefresh
 streamlit.components.v1
